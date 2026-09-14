@@ -235,4 +235,4 @@ This repository serves as the official landing page for Wormux. The software is 
 **Get the most recent version of Wormux today!**
 
 ---
-**Last updated:** 2026-09-13 23:43:26 UTC
+**Last updated:** 2026-09-14 02:01:46 UTC
